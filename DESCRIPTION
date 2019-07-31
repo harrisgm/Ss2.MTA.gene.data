@@ -7,8 +7,9 @@ Maintainer: Guy M. Harris <harrisgm@vcu.edu>
 License: GPL (>=3)
 Encoding: UTF-8
 biocViews: AnnotationData, AffymetrixChip, cdf
-Depends: utils
-Imports: AnnotationDbi
+Depends: utils, R (>=
+        3.6), data.table (>= 1.12)
+Imports: 
 organism: mus musculus
 species: mouse
 manufacturer: Affymetrix
