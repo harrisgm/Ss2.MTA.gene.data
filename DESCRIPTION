@@ -13,5 +13,6 @@ organism: mus musculus
 species: mouse
 manufacturer: Affymetrix
 chipName: MTA_1-0
+LazyData: TRUE
 NeedsCompilation: no
 Packaged: 2019-07-31 21:54:59 UTC; harrisgm
