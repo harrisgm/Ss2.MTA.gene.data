@@ -1,0 +1,17 @@
+Package: Ss2.MTA.gene.probedata
+Title: Contains the data files for analyzing MTA / ClariomD (mouse) arrays at the gene-level (transcription cluster ID) with Sscore2 R package
+Version: 1.0.0
+Author: Guy M. Harris, Shahroze Abbas, and Michael F. Miles
+Description: Contains the data files for analyzing MTA / ClariomD (mouse) arrays at the gene-level (transcription cluster ID) with Sscore2 R package. Assembled using data from Affymetrix / Thermo-Fisher and from public repositories.
+Maintainer: Guy M. Harris <harrisgm@vcu.edu>
+License: GPL (>=3)
+Encoding: UTF-8
+biocViews: AnnotationData, AffymetrixChip, cdf
+Depends: utils
+Imports: AnnotationDbi
+organism: mus musculus
+species: mouse
+manufacturer: Affymetrix
+chipName: MTA_1-0
+NeedsCompilation: no
+Packaged: 2019-07-31 21:54:59 UTC; harrisgm
