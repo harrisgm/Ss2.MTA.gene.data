@@ -1,4 +1,4 @@
 # Export everything
 exportPattern(".")
 import(utils)
-
+import(data.table)
