@@ -1,4 +1,4 @@
-Package: Ss2.MTA.gene.probedata
+Package: Ss2.MTA.gene.data
 Title: Contains the data files for analyzing MTA / ClariomD (mouse) arrays at the gene-level (transcription cluster ID) with Sscore2 R package
 Version: 1.0.0
 Author: Guy M. Harris, Shahroze Abbas, and Michael F. Miles
