@@ -3,5 +3,3 @@ exportPattern(".")
 import(utils)
 import(devtools)
 import(data.table)
-
-export(annotation,probefile)
