@@ -1,4 +1,5 @@
 # Export everything
 exportPattern(".")
 import(utils)
+import(devtools)
 import(data.table)
